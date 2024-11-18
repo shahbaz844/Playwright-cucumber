@@ -1,8 +1,8 @@
-# 🌟 Giant Rocketship Project Automation 🌟
+# 🌟 Project Automation 🌟
 
 ## Overview
 
-Welcome to the **Giant Rocketship Automation Project**! This project leverages the power of [Playwright](https://playwright.dev/) with [Typescript](https://www.typescriptlang.org/docs/) to automate the testing of flows. 🚀
+Welcome to the **Automation Project**! This project leverages the power of [Playwright](https://playwright.dev/) with [Typescript](https://www.typescriptlang.org/docs/) to automate the testing of flows. 🚀
 
 ## ⭐ Features
 
